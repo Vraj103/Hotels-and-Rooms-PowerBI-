@@ -1,7 +1,3 @@
-Here's a structured README for your **Hotels and Rooms Power BI** project:  
-
----
-
 # 🏨 Hotels and Rooms Analysis – Power BI  
 
 ## 📌 Overview  
@@ -38,7 +34,3 @@ This project leverages **Power BI** to analyze hotel bookings, room availability
 
 ## 📬 Contact  
 For any questions or collaboration, feel free to reach out!  
-
----
-
-Let me know if you need modifications! 🚀
